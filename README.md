@@ -5,7 +5,7 @@
 
 ## Установка
 - Скачать архив [Intime.ext.zip](https://github.com/ilunity/schedule-extension-vite/releases/download/v1.0.0/Intime.ext.zip) и распаковать его на компьютере.
-- Перейти на страницу управления расширениями вашего браузера (Сслыка для Chrome: "chrome://extensions/", Yandex: "browser://extensions/").
+- Перейти на страницу управления расширениями вашего браузера (Ссылка для Chrome: "chrome://extensions/", Yandex: "browser://extensions/").
 - Включить режим разработчика.
 - Нажать на появившуюся кнопку: "Загрузить распакованное расширение".
 - Выбрать папку с распакованным архивом.
