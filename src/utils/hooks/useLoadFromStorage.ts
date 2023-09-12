@@ -23,7 +23,7 @@ interface UseLoadFromStorageOptions<DataType> {
 export interface UseLoadFromStorage<DataType> {
     state: IReturnState<DataType>
     update: () => void;
-};
+}
 
 export const useLoadFromStorage = <DataType>(
     {

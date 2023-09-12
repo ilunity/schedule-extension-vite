@@ -1,9 +1,9 @@
 {
   "name": "vite-web-extension",
   "version": "1.0.0",
-  "displayName": "Vite Web Extension",
-  "author": "@samrum/vite-plugin-web-extension",
-  "description": "A @samrum/vite-plugin-web-extension web extension",
+  "displayName": "TSU intime extension",
+  "author": "Ilya Shishkin <github> (https://github.com/ilunity/)",
+  "description": "Extension for TSU schedule",
   "scripts": {
     "build": "vite build",
     "watch": "vite build --watch --mode development --minify false",
